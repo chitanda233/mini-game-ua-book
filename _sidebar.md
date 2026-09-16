@@ -45,6 +45,33 @@
     - [08 转化目标阶梯](deep/08-conversion-ladder.md)
     - [09 关键行为工程](deep/09-key-event-engineering.md)
     - [10 定向与自动化](deep/10-targeting-automation.md)
+  - **第三阶段：素材工程**
+    - [11 素材实验设计](deep/11-creative-experiment-design.md)
+    - [12 开头 3 秒工程化](deep/12-first-three-seconds.md)
+    - [13 从玩法到 15 秒脚本](deep/13-gameplay-to-script.md)
+    - [14 素材衰退与创意供给](deep/14-creative-fatigue.md)
+    - [15 竞品情报](deep/15-competitive-intelligence.md)
+  - **第四阶段：诊断能力**
+    - [16 每天看数的正确顺序](deep/16-daily-diagnostic-order.md)
+    - [17 买量故障树](deep/17-diagnostic-tree.md)
+    - [18 样本量与随机波动](deep/18-sample-size-variance.md)
+    - [19 停、留与复制](deep/19-stop-keep-clone.md)
+    - [20 日报与周复盘](deep/20-reporting-experiment-loop.md)
+  - **第五阶段：从会投到会经营**
+    - [21 放量与边际成本](deep/21-scaling-marginal-cost.md)
+    - [22 ROI 与长期 LTV](deep/22-roi-vs-ltv.md)
+    - [23 现金流](deep/23-cashflow.md)
+    - [24 IAA 经济模型](deep/24-iaa-economics.md)
+    - [25 IAP / 混合变现](deep/25-iap-hybrid.md)
+    - [26 产品反馈闭环](deep/26-product-feedback-loop.md)
+  - **第六阶段：完整实战**
+    - [27 飞机射击用户假设](deep/27-flight-shooter-user-hypotheses.md)
+    - [28 第一批 10 个素材方向](deep/28-ten-creative-hypotheses.md)
+    - [29 第一笔 3000 元学习预算](deep/29-3000-learning-budget.md)
+    - [30 第一笔 1 万元验证预算](deep/30-10000-validation-budget.md)
+    - [31 七天投放日志](deep/31-seven-day-log.md)
+    - [32 一次失败投放复盘](deep/32-failed-campaign-postmortem.md)
+    - [33 90 天训练计划](deep/33-90-day-training.md)
 
 - **工具与附录**
   - [术语表](glossary.md)
