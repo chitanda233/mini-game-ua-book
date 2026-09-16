@@ -40,6 +40,11 @@
     - [04 单位经济进阶](deep/04-unit-economics-pro.md)
     - [05 抖音巨量投前全链路](deep/05-douyin-preflight.md)
     - [06 第一轮账户结构](deep/06-first-account-structure.md)
+  - **第二阶段：让模型找到对的人**
+    - [07 学习期到底在学什么](deep/07-learning-phase.md)
+    - [08 转化目标阶梯](deep/08-conversion-ladder.md)
+    - [09 关键行为工程](deep/09-key-event-engineering.md)
+    - [10 定向与自动化](deep/10-targeting-automation.md)
 
 - **工具与附录**
   - [术语表](glossary.md)
