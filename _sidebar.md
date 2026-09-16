@@ -72,6 +72,14 @@
     - [31 七天投放日志](deep/31-seven-day-log.md)
     - [32 一次失败投放复盘](deep/32-failed-campaign-postmortem.md)
     - [33 90 天训练计划](deep/33-90-day-training.md)
+  - **第七阶段：后台实操与数据训练**
+    - [34 巨量实操地图](deep/34-oceanengine-ops-map.md)
+    - [35 第一次真正建广告](deep/35-first-ad-walkthrough.md)
+    - [36 事件与数据验收](deep/36-event-data-acceptance.md)
+    - [37 练习一：账户诊断](deep/37-data-drill-account-diagnosis.md)
+    - [38 练习一：完整解析](deep/38-data-drill-account-diagnosis-answer.md)
+    - [39 练习二：Cohort × LTV](deep/39-data-drill-cohort-ltv.md)
+    - [40 练习二：完整解析](deep/40-data-drill-cohort-ltv-answer.md)
 
 - **工具与附录**
   - [术语表](glossary.md)
