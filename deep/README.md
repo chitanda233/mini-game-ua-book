@@ -22,64 +22,64 @@
 
 ### 第一阶段：先学会不乱花钱
 
-1. [买量不是买流量：你真正控制的是一个闭环系统]\(#/deep/01-system-model\)  
-2. [账户工程：主体、账户、资产、权限和命名规范]\(#/deep/02-account-engineering\)  
-3. [投前测量系统：事件字典、归因、Cohort 与数据口径]\(#/deep/03-measurement-system\)  
-4. [单位经济进阶：从 LTV 反推允许获客成本]\(#/deep/04-unit-economics-pro\)  
-5. [抖音小游戏 × 巨量：从 AppID 到首条广告的完整链路]\(#/deep/05-douyin-preflight\)  
-6. [第一轮账户怎么搭：目标、计划、预算、素材与实验隔离]\(#/deep/06-first-account-structure\)
+1. [买量不是买流量：你真正控制的是一个闭环系统](#/deep/01-system-model)  
+2. [账户工程：主体、账户、资产、权限和命名规范](#/deep/02-account-engineering)  
+3. [投前测量系统：事件字典、归因、Cohort 与数据口径](#/deep/03-measurement-system)  
+4. [单位经济进阶：从 LTV 反推允许获客成本](#/deep/04-unit-economics-pro)  
+5. [抖音小游戏 × 巨量：从 AppID 到首条广告的完整链路](#/deep/05-douyin-preflight)  
+6. [第一轮账户怎么搭：目标、计划、预算、素材与实验隔离](#/deep/06-first-account-structure)
 
 ### 第二阶段：学会让模型找到“对的人”
 
-7. [学习期到底在学什么：数据密度、稳定性与模型信号]\(#/deep/07-learning-phase\)  
-8. [转化目标阶梯：激活、关键行为、付费、ROI 该怎么切]\(#/deep/08-conversion-ladder\)  
-9. [关键行为工程：为什么“过第 3 关”可能是一个很差的优化目标]\(#/deep/09-key-event-engineering\)  
-10. [定向与自动化：什么时候应该放宽，什么时候应该人为约束]\(#/deep/10-targeting-automation\)
+7. [学习期到底在学什么：数据密度、稳定性与模型信号](#/deep/07-learning-phase)  
+8. [转化目标阶梯：激活、关键行为、付费、ROI 该怎么切](#/deep/08-conversion-ladder)  
+9. [关键行为工程：为什么“过第 3 关”可能是一个很差的优化目标](#/deep/09-key-event-engineering)  
+10. [定向与自动化：什么时候应该放宽，什么时候应该人为约束](#/deep/10-targeting-automation)
 
 ### 第三阶段：素材不再是“多做几条视频”
 
-11. [素材实验设计：变量、假设、对照和污染]\(#/deep/11-creative-experiment-design\)  
-12. [开头 3 秒的工程化：停止率、预期管理与错误用户]\(#/deep/12-first-three-seconds\)  
-13. [从玩法爽点到广告脚本：如何把游戏机制翻译成 15 秒]\(#/deep/13-gameplay-to-script\)  
-14. [素材衰退与创意供给：为什么赢家素材也会死]\(#/deep/14-creative-fatigue\)  
-15. [竞品情报：哪些东西能抄，哪些数据不能从广告库里看出来]\(#/deep/15-competitive-intelligence\)
+11. [素材实验设计：变量、假设、对照和污染](#/deep/11-creative-experiment-design)  
+12. [开头 3 秒的工程化：停止率、预期管理与错误用户](#/deep/12-first-three-seconds)  
+13. [从玩法爽点到广告脚本：如何把游戏机制翻译成 15 秒](#/deep/13-gameplay-to-script)  
+14. [素材衰退与创意供给：为什么赢家素材也会死](#/deep/14-creative-fatigue)  
+15. [竞品情报：哪些东西能抄，哪些数据不能从广告库里看出来](#/deep/15-competitive-intelligence)
 
 ### 第四阶段：成为一个会诊断的投手
 
-16. [每天看数的正确顺序：先检查系统，再评价素材]\(#/deep/16-daily-diagnostic-order\)  
-17. [买量故障树：CPM、CTR、CVR、CPA、留存、LTV 的组合诊断]\(#/deep/17-diagnostic-tree\)  
-18. [样本量与随机波动：为什么“今天贵 30%”不一定说明任何事]\(#/deep/18-sample-size-variance\)  
-19. [什么时候停、什么时候留、什么时候复制]\(#/deep/19-stop-keep-clone\)  
-20. [如何写一份能驱动下一轮实验的日报与周复盘]\(#/deep/20-reporting-experiment-loop\)
+16. [每天看数的正确顺序：先检查系统，再评价素材](#/deep/16-daily-diagnostic-order)  
+17. [买量故障树：CPM、CTR、CVR、CPA、留存、LTV 的组合诊断](#/deep/17-diagnostic-tree)  
+18. [样本量与随机波动：为什么“今天贵 30%”不一定说明任何事](#/deep/18-sample-size-variance)  
+19. [什么时候停、什么时候留、什么时候复制](#/deep/19-stop-keep-clone)  
+20. [如何写一份能驱动下一轮实验的日报与周复盘](#/deep/20-reporting-experiment-loop)
 
 ### 第五阶段：从会投变成会经营
 
-21. [放量：横向复制、纵向提预算与边际成本]\(#/deep/21-scaling-marginal-cost\)  
-22. [ROI 优化：短期回收目标与长期 LTV 的冲突]\(#/deep/22-roi-vs-ltv\)  
-23. [现金流：为什么 ROAS 最终赚钱，团队仍可能先死在账期上]\(#/deep/23-cashflow\)  
-24. [IAA：广告次数、广告 ARPU、留存和用户体验的四角关系]\(#/deep/24-iaa-economics\)  
-25. [IAP / 混合变现：付费用户少时模型怎么学]\(#/deep/25-iap-hybrid\)  
-26. [产品反推：买量数据怎样进入首局、关卡和成长系统]\(#/deep/26-product-feedback-loop\)
+21. [放量：横向复制、纵向提预算与边际成本](#/deep/21-scaling-marginal-cost)  
+22. [ROI 优化：短期回收目标与长期 LTV 的冲突](#/deep/22-roi-vs-ltv)  
+23. [现金流：为什么 ROAS 最终赚钱，团队仍可能先死在账期上](#/deep/23-cashflow)  
+24. [IAA：广告次数、广告 ARPU、留存和用户体验的四角关系](#/deep/24-iaa-economics)  
+25. [IAP / 混合变现：付费用户少时模型怎么学](#/deep/25-iap-hybrid)  
+26. [产品反推：买量数据怎样进入首局、关卡和成长系统](#/deep/26-product-feedback-loop)
 
 ### 第六阶段：完整实战
 
-27. [经典飞机射击：先建立“用户是谁”的可证伪假设]\(#/deep/27-flight-shooter-user-hypotheses\)  
-28. [第一批 10 个素材方向：不是 10 个剪辑版本，而是 10 个用户假设]\(#/deep/28-ten-creative-hypotheses\)  
-29. [第一笔 3000 元学习预算如何设计]\(#/deep/29-3000-learning-budget\)  
-30. [第一笔 1 万元验证预算如何升级]\(#/deep/30-10000-validation-budget\)  
-31. [七天投放日志：每天应该做什么、不应该做什么]\(#/deep/31-seven-day-log\)  
-32. [一次失败投放的完整复盘]\(#/deep/32-failed-campaign-postmortem\)  
-33. [从新人到独立负责账户的 90 天训练计划]\(#/deep/33-90-day-training\)
+27. [经典飞机射击：先建立“用户是谁”的可证伪假设](#/deep/27-flight-shooter-user-hypotheses)  
+28. [第一批 10 个素材方向：不是 10 个剪辑版本，而是 10 个用户假设](#/deep/28-ten-creative-hypotheses)  
+29. [第一笔 3000 元学习预算如何设计](#/deep/29-3000-learning-budget)  
+30. [第一笔 1 万元验证预算如何升级](#/deep/30-10000-validation-budget)  
+31. [七天投放日志：每天应该做什么、不应该做什么](#/deep/31-seven-day-log)  
+32. [一次失败投放的完整复盘](#/deep/32-failed-campaign-postmortem)  
+33. [从新人到独立负责账户的 90 天训练计划](#/deep/33-90-day-training)
 
 ### 第七阶段：后台实操与数据训练
 
-34. [巨量实操地图：两套后台、资产链路和投前检查]\(#/deep/34-oceanengine-ops-map\)  
-35. [第一次真正建广告：每个设置背后的决策逻辑]\(#/deep/35-first-ad-walkthrough\)  
-36. [事件与数据验收：没有可信数据，就没有优化]\(#/deep/36-event-data-acceptance\)  
-37. [数据练习一：接手账户第一天怎么判断]\(#/deep/37-data-drill-account-diagnosis\)  
-38. [数据练习一解析：为什么最便宜的计划可能最差]\(#/deep/38-data-drill-account-diagnosis-answer\)  
-39. [数据练习二：素材 × Cohort × LTV]\(#/deep/39-data-drill-cohort-ltv\)  
-40. [数据练习二解析：回收点不如回收曲线重要]\(#/deep/40-data-drill-cohort-ltv-answer\)
+34. [巨量实操地图：两套后台、资产链路和投前检查](#/deep/34-oceanengine-ops-map)  
+35. [第一次真正建广告：每个设置背后的决策逻辑](#/deep/35-first-ad-walkthrough)  
+36. [事件与数据验收：没有可信数据，就没有优化](#/deep/36-event-data-acceptance)  
+37. [数据练习一：接手账户第一天怎么判断](#/deep/37-data-drill-account-diagnosis)  
+38. [数据练习一解析：为什么最便宜的计划可能最差](#/deep/38-data-drill-account-diagnosis-answer)  
+39. [数据练习二：素材 × Cohort × LTV](#/deep/39-data-drill-cohort-ltv)  
+40. [数据练习二解析：回收点不如回收曲线重要](#/deep/40-data-drill-cohort-ltv-answer)
 
 ## 深度版的一个原则
 
@@ -97,4 +97,4 @@
 - 发行人计划专项篇；
 - 素材拆解案例库与更多异常案例。
 
-开始：[第 1 章：买量不是买流量]\(#/deep/01-system-model\)。如果你已经掌握基础概念，可以直接从[第 34 章：巨量实操地图]\(#/deep/34-oceanengine-ops-map\)开始边操作边学。
+开始：[第 1 章：买量不是买流量](#/deep/01-system-model)。如果你已经掌握基础概念，可以直接从[第 34 章：巨量实操地图](#/deep/34-oceanengine-ops-map)开始边操作边学。
