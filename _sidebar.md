@@ -80,6 +80,7 @@
     - [38 练习一：完整解析](deep/38-data-drill-account-diagnosis-answer.md)
     - [39 练习二：Cohort × LTV](deep/39-data-drill-cohort-ltv.md)
     - [40 练习二：完整解析](deep/40-data-drill-cohort-ltv-answer.md)
+    - [41 直投 / 微端 / 原生 APK](deep/41-three-acquisition-paths.md)
 
 - **工具与附录**
   - [术语表](glossary.md)
